@@ -1,6 +1,5 @@
 from data import family
 
-print("hello this is a branch test") 
 
 while True:
   print("\n1. Find one person")
